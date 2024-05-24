@@ -8,9 +8,9 @@
 
 ### Пример структуры
 
-- `Continues random variables`
+- `Название темы:`
   - `homework.docx`: Задание 
-  - `solution.ipynb`: Решение задания №1
+  - `solution.ipynb`: Решение задания
 
 ## Как использовать
 
